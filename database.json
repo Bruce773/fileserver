@@ -11,6 +11,46 @@
     "q3": {
       "id": "q3",
       "answer": "Question #3 is 3: Svatmarama"
+    },
+    "q4": {
+      "id": "q4",
+      "answer": "Question #4 is 2: As described in the Hatha Yoga Pradipika, a mudra involves a whole body asana position."
+    },
+    "q5": {
+      "id": "q5",
+      "answer": "Question #5 is False: The Yoga Sutra was written around 400 B.C.E. and the Hatha Yoga Pradipika was written in the 15th century C.E."
+    },
+    "q6": {
+      "id": "q6",
+      "answer": "Question #6 is False: The Hatha Yoga Pradipika is considered to be a tantric manual centered on the body while the Yoga Sutra is a manual on the mind and meditation"
+    },
+    "q7": {
+      "id": "q7",
+      "answer": "Question #7 is True: Ha = sun and tha = moon."
+    },
+    "q8": {
+      "id": "q8",
+      "answer": "Question #8 is False: The author suggests eating enough to maintain the required energy for practice, neither consuming too little nor too much."
+    },
+    "q9": {
+      "id": "q9",
+      "answer": "Question #9 is False: That’s the definition of yoga according to the Yoga Sutra."
+    },
+    "q10": {
+      "id": "q10",
+      "answer": "Question #10 is False: The author compiled known techniques from his lineage and acknowledges the teachers who came before him in the text."
+    },
+    "q11": {
+      "id": "q11", 
+      "answer": "Question #11 is True: The Hatha Yoga Pradipika is a medieval text written in the 15th century."
+    },
+    "q12": {
+      "id": "q12", 
+      "answer": "Question #12 is True: Svatmarama references the subtle body many times."
+    },
+    "q13": {
+      "id": "q13",
+      "answer": "Question #13 is False: While Svatmarama mentions there are more than 80 poses, he narrows the list to 15 in the text."
     }
   }
 }
