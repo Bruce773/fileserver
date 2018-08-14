@@ -1,0 +1,12 @@
+{
+  "quiz": {
+    "q1": {
+      "id": "q1",
+      "answer": "Question #1 is False: The Hatha Yoga Pradipika is a medieval text written in the 15th century."
+    },
+    "q2": {
+      "id": "q2",
+      "answer": "Question #2 is False: Handstand is not mentioned in this book."
+    }
+  }
+}
