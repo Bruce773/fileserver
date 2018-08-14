@@ -7,6 +7,10 @@
     "q2": {
       "id": "q2",
       "answer": "Question #2 is False: Handstand is not mentioned in this book."
+    },
+    "q3": {
+      "id": "q3",
+      "answer": "Question #3 is 3: Svatmarama"
     }
   }
 }
